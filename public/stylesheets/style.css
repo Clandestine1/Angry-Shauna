@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	position: relative;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	position: absolute;
+	color: #F107E6;
+	left: 30%;
+	text-shadow: 4px 4px #078CDE;    
+	animation-name: biggy;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+	font-size: 44px;
+}
+
+#background {
+	position: fixed;
+	z-index: -44;
+	width: 100%;
+
+}
+
+@keyframes biggy {
+    0%   { font-size: 44px; animation-timing-function: ease-in;}
+    50%   { font-size: 64px; color: #0D0A6D; animation-timing-function: ease-in;}
+    100% { font-size: 44px; animation-timing-function: ease-in-out;}
+}

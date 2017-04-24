@@ -1,0 +1,333 @@
+body {
+	margin: 0;
+	position: relative;
+	font-size: 94px;
+	display: block;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	position: absolute;
+	color: #F107E6;
+	left: 30%;
+	text-shadow: 4px 4px pink;
+	position: fixed;    
+}
+
+#wrapper{
+	position: relative;
+}
+
+
+
+#an {
+	position: fixed;
+	margin-left: -28%;
+	animation-name: biggy;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+	font-size: 64px;
+	margin-top: -16%;
+	color: gold;
+}
+
+#bi {
+	position: fixed;
+	margin-left: 65%;
+	animation-name: biggy;
+    animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+	font-size: 64px;
+	margin-top: -16%;
+	color: gold;
+}
+
+#background {
+	position: fixed;
+	z-index: -44;
+	width: 100%;
+	filter: sepia(90%);
+}
+
+#b1 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b2 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}	
+
+#b3 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b4 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b5 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b6 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b8 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b9 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b10 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b11 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b12 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b13 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b14 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b15 {
+	border: 7px solid black;
+	text-shadow: 4px 4px 4px hotpink;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+}
+
+#b1:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b2:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b3:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b4:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b5:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b6:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b8:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b9:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b10:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b11:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b12:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b13:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b14:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#b15:hover {
+	animation-name: bounce;
+	animation-duration: 4s;
+    -webkit-animation-duration: 4s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    filter: sepia(92%);
+}
+
+#logo {
+	animation-name: bounce;
+    animation-duration: 0.80s;
+    -webkit-animation-duration: 0.80s;
+    animation-iteration-count:infinite;
+    animation-timing-function: ease-in-out;
+    top: 34%;
+}
+
+@keyframes biggy {
+    0%   { opacity: 1; animation-timing-function: ease-in;}
+    50%   { color: black; animation-timing-function: ease-in;}
+    100% { color: yellow; animation-timing-function: ease-in-out;}
+}
+
+@keyframes bounce {
+    0%   { transform: scale(1); animation-timing-function: ease-in;}
+    50%  { transform: scale(1.2); animation-timing-function: ease-out;}
+    100% { transform: scale(1); animation-timing-function: ease-in-out;}
+}
+
